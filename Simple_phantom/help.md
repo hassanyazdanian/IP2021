@@ -1,5 +1,7 @@
 # Help for simple phantom
 
+![alt text](https://gitlab.gbar.dtu.dk/MREIT/IP2021/raw/master/Figures/simple_phantom.png "Simple_phantom")
+
 In this directory, there are three folders in which codes related to the simple
 phantom were placed. 
 
