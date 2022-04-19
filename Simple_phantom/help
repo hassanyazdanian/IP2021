@@ -1,20 +1,1 @@
-# Help for simple phantom
-
-In this directory, there are three folders in which codes related to the simple
-phantom were placed. 
-
-To run codes, you need to install FEniCS/2019.1.0 (For more information, see: 
-https://fenicsproject.org/).
-
-For each folder, there are four subfolders. Each subfolder is related to a  
-subcase forthe simple phantom (for example Case_A1 contains codes for  
-reconstruction conductivity from one measurement/one bonudary condition (A) and
-three components of interior current density (1)).
-
-Codes were writtern to run on DTU HPC system. First file "submint1.sh" should be
-submit to HPC to generated the simulaated data. After generating data, file 
-"submit2.sh" can be submit to HPC in order to recostruct condcutivty 
-distribution. If you want to run codes on a different HPC system, "submit1.sh" 
-and "submit2.sh" should be modified accordingly. Codes can be run on PC, 
-as well. However, please note the minimum computational requirment for each 
-case, as indicated in the manuscript. 
+éi"{aŠÇb­ç-¢¼­…êŞj·­†·~‰]z»"Ÿbr(uë+zV­yÛh¶¬Šjez˜ZÚ&ÁêŞ¦VœyÔè®éÜ¡×¬Ê‹§yçm¢)ìµ©eIâ	/öÓ_uĞZ+šŠŞŠwè®f­Š‰ìyèm¶›?ı÷§‰Ë)®ˆŞrÚ+ƒñh­æœ…ú%uêí…êŞj·Ÿ¢êì¹·è•×«°Fœ†Ë›~‰]z¸¬­éZµçm¡«.mÆ¬yú+¶¬Šjez˜ZÚ&~ŠŞÅ©©•àš±à5r‰íj)ìr‡^±ú+­ç(Ëk¹Ëb¢w(Ûœ¶+â·'ë¢j'zgš²êŞ™éíş‰Şn‰îuªòr‰İŠØ¨œ§vØkyç(šš'z{l¡ø§µêâ¢·.®·§µ×§²+rÔ*zÌ­ì+ŠÛ^®{h®éèœ4Ôğ¬ÊË^˜X«²×â•ë.nh§·[!².•ÖŞ²ææŠÛhğ­¢§z¶­yÛazÈ¦ºVšµç]jÖ€~×«éŞ­«bZµ§â•ë.nh­ÚÈ\jvŞ²ææŠÛhğ¢Šİz»h­ç(²Úîr×(×.¶+íÉØ¬¶¸›ºØ¨œ‡ò¢ìÛh®éÜ¡×¬¢v‰÷Ş­éíğ¬ÊË^šË›š+u²§vË›š+v²!¢é]mé¨v'âyÖœrŠİŠx%È*zÇ·«ºz'<&¬ÁéeŒ½êé•æ¬zz-zØ^š)âšéœ¢jnµ«b¢v¥­ê®Š¹×è­æœ…Æ¬y«"Øœj×Š{azf§ºÇ+Š›
