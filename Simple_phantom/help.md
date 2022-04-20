@@ -14,7 +14,7 @@ reconstruction conductivity from one measurement/one bonudary condition (A) and
 three components of interior current density (1)).
 
 Codes were writtern to run on DTU HPC system. First file "submint1.sh" should be
-submit to HPC to generated the simulaated data. After generating data, file 
+submit to HPC to generated the simulated data. After generating data, file 
 "submit2.sh" can be submit to HPC in order to recostruct condcutivty 
 distribution. If you want to run codes on a different HPC system, "submit1.sh" 
 and "submit2.sh" should be modified accordingly. Codes can be run on PC, 
