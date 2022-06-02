@@ -7,7 +7,7 @@
     Copyright (C) 2022 Hassan Yazdanin, Kim Knudsen
     
     This is a calling routine to reconstruct conductivities for the simple
-    phantom in Case_C1.
+    phantom in Case_C2.
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
