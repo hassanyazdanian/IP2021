@@ -1,6 +1,6 @@
 # Numerical conductivity reconstruction from partial interior current density information in three dimensions
 
-This project focuses on conductivity imaging of a three dimensional object
+This project focuses on conductivity imaging of a three-dimensional object
 using interior current density information (ICDI). For all possible forms of
 ICDI data, the Fr´echet derivative of the map between conductivity and ICDI
 is derived. Then, an iterative reconstruction method is formulated based on the
@@ -15,3 +15,5 @@ are investigated on simulated data obtained from two different phantoms.
 
 
 The method is also benchmarked against the J-substitution method.
+
+If you find codes useful in your research, please cite our work (doi: 10.1088/1361-6420/ac1e81).
